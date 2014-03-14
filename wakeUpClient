@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cd /home/feicun/workspace/osprj1/bin/osprj1/ && pwd && java Client
